@@ -84,7 +84,7 @@ python -m streamlit run app.py
 
 ### 4 Open the Web App
 
-http://localhost:8501
+live link: https://diabetes-prediction-ml-cs6lmwzhgoyjspc2wygybm.streamlit.app/
 
 ## Example Prediction Input
 
