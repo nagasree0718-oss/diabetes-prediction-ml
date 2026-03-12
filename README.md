@@ -96,15 +96,3 @@ Insulin: 0
 BMI: 33.6
 Diabetes Pedigree Function: 0.627
 Age: 50
-
-## Future Improvements
-
-* Improve model accuracy using advanced algorithms
-* Add data visualization and feature importance analysis
-* Deploy the application online
-* Build a more interactive user interface
-
-## Author
-
-Nagasri
-B.Tech Artificial Intelligence Student
